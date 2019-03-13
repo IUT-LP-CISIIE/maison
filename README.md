@@ -1,8 +1,9 @@
-# test
+# Description
 
-> A Vue.js project
+Déplacez vous dans une maison pour trouver le lapin caché dans une pièce.
+Mise en pratique de vuex(store), du router (gestion des url et des router-link), et du bus (commit/emit).
 
-## Build Setup
+## Build 
 
 ``` bash
 # install dependencies
@@ -17,5 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
